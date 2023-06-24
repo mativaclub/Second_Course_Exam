@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d914718-b238-4d31-a45d-333ac8b25fce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/exceptions/EmployeeAlreadyAddedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/exceptions/EmployeeNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/exceptions/EmployeeStorageIsFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/main/java/pro/sky/Employees_Spring_Mockito/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/test/java/pro/sky/Employees_Spring_Mockito/DepartmentServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/test/java/pro/sky/Employees_Spring_Mockito/EmployeeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/src/test/java/pro/sky/Employees_Spring_Mockito/TestConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicing/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicing/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicing/src/main/java/org/example/ParametersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicing/src/main/java/org/example/WrongLoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicing/src/main/java/org/example/WrongPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-calculator/src/main/java/pro/sky/springboot_calculator/practicing/ParametersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-calculator/src/main/java/pro/sky/springboot_calculator/practicing/exception/WrongLoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-calculator/src/main/java/pro/sky/springboot_calculator/practicing/exception/WrongPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-calculator/src/main/java/pro/sky/springboot_calculator/practicing/exception/service/ParametersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-calculator/src/main/java/pro/sky/springboot_calculator/practicing/exception/service/ParametersServiceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Employees_Spring_Mockito/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Employees_Spring_Mockito/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2RI2lQbAQMWC6qtfaWNxZ5uCacE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/masha/IdeaProjects/second_Course_All_Homeworks/src/Collections_List_Set_Map",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d914718-b238-4d31-a45d-333ac8b25fce" name="Changes" comment="" />
+      <created>1686923424501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686923424501</updated>
+      <workItem from="1686923425573" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
